@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align=center><img src="https://readme-typing-svg.herokuapp.com/?font=jetbrains+mono&color=%2370A5FD&size=22&center=true&vCenter=true&lines=Hey+There!" alt="Django, Python, JavaScript"></h1>
 
-<!--
-**razin-s/razin-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm a self-taught programmer doing Diploma in CSE.**
+I'm an intermediate python developer, and I mostly focus on Web scraping.
+
+## Technologies:
+
+| **Languages**  | ![Python](https://img.shields.io/badge/-Python%20-brightgreen)                                                                                                                                              |
+|:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Frameworks** | ![Beautifulsoup](https://img.shields.io/badge/Beautifulsoup--4-blue) ![Windows](https://img.shields.io/badge/Selenium-blue)                                                                                 |
+| **Tools**      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+<img src="https://github-readme-stats.vercel.app/api?username=razin-s&theme=tokyonight" alt="GitHub readme stats" width=451px align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razin-s&layout=compact&theme=tokyonight&langs_count=6" alt="GitHub readme stats" width=451px align="left">
