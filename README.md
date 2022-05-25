@@ -11,7 +11,7 @@ I'm an intermediate python developer, and I mostly focus on Web Scraping.
 | **Languages**  | ![Python](https://img.shields.io/badge/-Python%20-brightgreen)                                                                                                                                              |
 |:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Frameworks** | ![Beautifulsoup](https://img.shields.io/badge/Beautifulsoup--4-blue) ![Selenium](https://img.shields.io/badge/Selenium-blue) ![Requests](https://img.shields.io/badge/Requests-blue)                        |
-| **Tools**      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **OS**         | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-<img src="https://github-readme-stats.vercel.app/api?username=razin-s&theme=tokyonight" alt="GitHub readme stats" width=451px align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razin-s&layout=compact&theme=tokyonight&langs_count=6" alt="GitHub readme stats" width=451px align="left">
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=razin-s&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=razin-s&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
