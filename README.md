@@ -14,4 +14,5 @@ I'm an intermediate python developer, and I mostly focus on Web Scraping.
 | **OS**         | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=razin-s&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=razin-s&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
